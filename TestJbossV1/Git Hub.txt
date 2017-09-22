@@ -1,0 +1,70 @@
+GitHub
+
+GitHub is a web-based Git or version control repository and Internet hosting service.
+ It is mostly used for code. It offers all of the distributed version control and source code management functionalitys
+
+
+Developer
+
+$7 per month
+
+Includes:
+Personal account
+Unlimited public repositories
+Unlimited private repositories
+Unlimited collaborators
+Free for students as part of the Student Developer Pack.
+
+
+
+Team $9 per user / month
+
+Includes:
+Organization account
+Unlimited public repositories
+Unlimited private repositories
+Team and user permissions
+Starting at $25 / month which includes your first 5 users.
+
+Business
+
+$21 per user / month
+
+Hosted on
+GitHub.com
+Organization account
+SAML single sign-on
+Access provisioning
+24/5 support with 8-hour response time
+99.95% Uptime SLA
+Team sync (Coming 2017)
+Get started
+
+GitHub Enterprise $21 * per user / month
+
+Multiple organizations
+SAML, LDAP, and CAS
+Access provisioning
+24/7 support for urgent issues
+Advanced auditing
+Host on your servers, AWS, Azure, or GCP
+
+Fork
+
+
+A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+ Most commonly, forks are used to either propose changes to someone else's project or to use someone else's project as a starting point for your own idea
+
+Pull request
+
+Pull requests let you tell others about changes you've pushed to a GitHub repository.
+
+Once you've created a pull request, you can push commits from your topic branch to add them to your existing pull request.
+These commits will appear in chronological order within your pull request and the changes will be visible in the "Files changed" tab.
+Other contributors can review your proposed changes, add review comments, contribute to the pull request discussion, 
+and even add commits to the pull request.
+After you're happy with the proposed changes, you can merge the pull request. 
+If you're working in a shared repository model, 
+the proposed changes will be merged from the head branch to the base branch that was specified in the pull request.
+You can close corresponding issues using a keyword in your pull request or commit message. For more information,
+see "Closing issues using keywords."
